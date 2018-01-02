@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TodoListApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TodoListApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TodoListApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TodoListApp_main.iml" group="TodoListApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TodoListApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TodoListApp_test.iml" group="TodoListApp" />
+    </modules>
+  </component>
+</project>
