@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf4c7a7d-88fc-48e9-a666-e243e69b1ed8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/function.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/todolist/MainKt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/todolist/MainKt.class" afterPath="$PROJECT_DIR$/out/production/classes/todolist/MainKt.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/todolist/TaskController.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/TaskController.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/todolist/main.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/main.kt" />
-    </list>
+    <list default="true" id="cf4c7a7d-88fc-48e9-a666-e243e69b1ed8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -765,12 +758,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514913715412</updated>
       <workItem from="1514913718405" duration="348000" />
-      <workItem from="1514914290386" duration="7031000" />
+      <workItem from="1514914290386" duration="7137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7379000" />
+    <option name="totallyTimeSpent" value="7485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1280" extended-state="0" />
