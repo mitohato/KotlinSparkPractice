@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf4c7a7d-88fc-48e9-a666-e243e69b1ed8" name="Default" comment="" />
+    <list default="true" id="cf4c7a7d-88fc-48e9-a666-e243e69b1ed8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -94,17 +96,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskRepository.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TaskRepository.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="368">
+              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskController.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskController.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/TaskController.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -539,11 +541,11 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Task.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TakController.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TaskCreateRequest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/main.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/function.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TaskController.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt" />
       </list>
     </option>
   </component>
@@ -758,12 +760,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514913715412</updated>
       <workItem from="1514913718405" duration="348000" />
-      <workItem from="1514914290386" duration="7137000" />
+      <workItem from="1514914290386" duration="7696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7485000" />
+    <option name="totallyTimeSpent" value="8044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1280" extended-state="0" />
@@ -859,14 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -902,6 +896,14 @@
           <folding>
             <element signature="e#18#111#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/TaskRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
