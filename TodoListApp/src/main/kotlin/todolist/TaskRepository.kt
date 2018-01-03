@@ -22,4 +22,13 @@ class TaskRepository {
         tasks.removeIf { (id) -> id == task.id }
     }
 
+    fun update(task: Task) {
+        tasks.replaceAll {
+            if (it.id == task.id) {
+                task
+            } else {
+                it
+            }
+        }
+    }
 }
