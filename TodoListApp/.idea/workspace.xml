@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf4c7a7d-88fc-48e9-a666-e243e69b1ed8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/TakController.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -77,13 +76,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TakController.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TakController.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/TakController.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
               <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding>
                 <element signature="e#18#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonTransformer.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <folding>
+                <element signature="e#18#101#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -499,6 +510,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Task.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/main.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/todolist/TakController.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt" />
       </list>
     </option>
   </component>
@@ -713,12 +725,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514913715412</updated>
       <workItem from="1514913718405" duration="348000" />
-      <workItem from="1514914290386" duration="1803000" />
+      <workItem from="1514914290386" duration="2005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2151000" />
+    <option name="totallyTimeSpent" value="2353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1280" extended-state="0" />
@@ -822,6 +834,16 @@
           <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
             <element signature="e#18#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/todolist/JsonTransformer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#18#101#0" expanded="true" />
           </folding>
         </state>
       </provider>
