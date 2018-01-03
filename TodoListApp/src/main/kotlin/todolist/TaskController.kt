@@ -16,8 +16,8 @@ class TaskController(private val taskRepository: TaskRepository, private val obj
         task
     }
 
-    fun show(): Route = Route { req, res ->
+    fun show(): Route = Route { req, _ ->
         val id = req.params("id").toLongOrNull()
-        id?.let { taskRepository::findById } ?: throw halt(404)
+        id?.let(taskRepository::findById) ?: throw halt(404)
     }
 }
