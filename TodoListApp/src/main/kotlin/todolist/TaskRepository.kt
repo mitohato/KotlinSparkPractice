@@ -9,7 +9,6 @@ class TaskRepository {
     fun findAll(): List<Task> = tasks.toList()
 
     fun create(content: String): Task {
-
         val id = maxId + 1
         val task = Task(id, content, false)
         tasks += task
@@ -20,8 +19,7 @@ class TaskRepository {
     fun findById(id: Long): Task? = tasks.find { it.id == id }
 
     fun delete(task: Task) {
-
         tasks.removeIf { (id) -> id == task.id }
-
     }
+
 }
