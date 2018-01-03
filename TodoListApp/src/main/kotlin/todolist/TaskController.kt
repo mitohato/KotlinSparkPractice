@@ -17,7 +17,7 @@ class TaskController(private val taskRepository: TaskRepository, private val obj
                     throw halt(400)
                 }
         val task = taskRepository.create(request.content)
-        res.status(200)
+        res.status(201)
         task
     }
 }
