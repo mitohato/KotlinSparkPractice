@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     val objectMapper = ObjectMapper().registerKotlinModule()
     val jsonTransformer = JsonTransformer(objectMapper)
     val taskRepository = TaskRepository()
-    val taskController = TaskController(taskRepository)
+    val taskController = TaskController(taskRepository, objectMapper)
 
     get("/tasks", taskController.index(), jsonTransformer)
 }
